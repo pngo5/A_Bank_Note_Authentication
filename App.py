@@ -94,27 +94,5 @@ def predict_note_file():
 # Test result from the file testfile is The predicted values for the csv is[0 0 0 0 1 1 1 1 1]  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__=='__main__':
-    app.run()
+    app.run( app.run(host='0.0.0.0',port=8000))
