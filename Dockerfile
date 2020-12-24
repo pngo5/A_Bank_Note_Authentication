@@ -3,4 +3,4 @@ COPY . /usr/app/
 EXPOSE 8000
 WORKDIR /usr/app/
 RUN pip install -r requirements
-CMD python App.py
+CMD python app_api.py

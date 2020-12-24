@@ -1,0 +1,3 @@
+/*! For license information please see 37.1b704613.chunk.js.LICENSE.txt */
+(this["webpackJsonpstreamlit-browser"]=this["webpackJsonpstreamlit-browser"]||[]).push([[37],{3795:function(t,r,e){"use strict";e.r(r);var i=e(226),n=e(0),s=e.n(n);function o(t){var r,e,n=t.element,o=t.width,a=n.hasWidth?n.width:o;n.scrolling?(r="auto",e={}):(r="no",e={overflow:"hidden"});var c=l(n.src),h=null!=c?void 0:l(n.srcdoc);return s.a.createElement("iframe",{allow:i.a,style:e,src:c,srcDoc:h,width:a,height:n.height,scrolling:r,sandbox:i.b,title:"st.iframe"})}function l(t){return null==t||""===t?void 0:t}e.d(r,"default",(function(){return o}))}}]);
+//# sourceMappingURL=37.1b704613.chunk.js.map
